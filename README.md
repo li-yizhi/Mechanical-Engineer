@@ -9,7 +9,7 @@
 
 ## :triangular_ruler: 图学
 
-- [机械制图](ht,,tps://github.com/CyC2018/CS-Notes/blob/master/notes/剑指%20Offer%20题解%20-%20目录.md)
+- [机械制图](https://github.com/li-yizhi/Mechanical-Engineer/blob/master/notes/机械制图%20-%20目录.md.md)
 
 
 ## :magnet: 力学
@@ -23,7 +23,7 @@
 ## :hammer_and_wrench: 机械 
 
 - [机械原理](htcctps://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
-- [机械设计基础](htcctps://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
+- [机械设计基础](https://github.com/li-yizhi/Mechanical-Engineer/blob/master/notes/机械设计基础%20-%20目录.md)
 - [机械动力学](htcctps://github.com/CyC2018/CS-Notes/blob/master/notes/计算机网络%20-%20目录.md)
 - [机械优化设计](htvvtps://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 
