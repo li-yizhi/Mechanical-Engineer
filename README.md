@@ -51,10 +51,10 @@
 
 ## :factory: 生产 
 
-- [互换性与技术测量](h t//tps://gisccthub.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
+- [互换性与技术测量](ht//tps://gisccthub.com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
 - [制造技术基础](ht//tpss://githubs.com/CyC 2018/CS-Notes/blob/master/notes/系统设计基础.md)
 - [机械制造工艺学](ht//tpss://githsubs .com/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
-- [机械故障诊断学](ht//tpss://githsub.czom/CyC2018/CS-Notes/blob/master/notes/系统设计基础.md)
+- [机械故障诊断学](httspss://github.com/CyC201sss8/CS-Notes/blob/master/notes/数据库系统原理.md)
 
 
 ## :woman_mechanic: 管理 
@@ -63,5 +63,5 @@
 
 ## :book: 工具书 
 
-- [机械设计手册](ht//tps://giddsthub.com/CyC20ss18/CS-Notes/blob/master/notes/系统设计基础.md)
+- [机械设计手册](httspss://github.com/CyC201sss8/CS-Notes/blob/master/notes/数据库系统原理.md)
 
