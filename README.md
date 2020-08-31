@@ -9,7 +9,7 @@
 
 ## :triangular_ruler: 图学
 
-- [机械制图](https://github.com/li-yizhi/Mechanical-Engineer/blob/master/notes/机械制图%20-%20目录.md.md)
+- [机械制图](https://github.com/li-yizhi/Mechanical-Engineer/blob/master/notes/机械制图%20-%20目录.md)
 
 
 ## :magnet: 力学
